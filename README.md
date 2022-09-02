@@ -22,15 +22,17 @@
 <br>
 
 
-<h3 align="center"> Contact </h3>
+<h3 align="center"> Contact Me </h3>
 <p align="center">
   <a href="mailto:rohos119@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=britko@naver.com"/></a>
+  <a href="mailto:rohos119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:rohos119@gmail.com"/></a>
 </p>
 <br>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbritko&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohos119)](https://github.com/anuraghazra/github-readme-stats)
 
 
