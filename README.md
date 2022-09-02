@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white&style=flat-square"/> 
   <img src="https://img.shields.io/badge/JavaScript-FFB13B?logo=JavaScript&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/Go-11B48A?logo=Go&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square"/>
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white&style=flat-square"/>
