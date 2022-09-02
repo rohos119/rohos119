@@ -23,12 +23,19 @@
 <br>
 
 <div align="center">
+<h3 aligin="center"> 🛠 Algorithm Skill 🛠 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rohos119?theme=light&font=Neuton&ext=activity)
+
+</div>
+
+
+<div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohos119)
   
   <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=rohos119" width="400"/>
-</a>
+ 
   
 </div>
 
